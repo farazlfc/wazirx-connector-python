@@ -9,8 +9,8 @@ if PATH_TO_ADD not in sys.path:
 from wazirx_sapi_client.rest import Client
 
 # Keys for private events
-api_key = "test_api_key"
-secret_key = "test_secret_key"
+api_key = "XOFCdgkgbWPlmu3tJDBmFOqDEnk6SrsvK9cu4IAag8TIqmsO3frNVBm7Ssz679Z"
+secret_key = "****************************************"
 
 # public
 c = Client()
